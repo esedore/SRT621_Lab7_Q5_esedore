@@ -1,0 +1,19 @@
+{
+  "name": "srt621_lab7_q5_esedore",
+  "version": "1.0.0",
+  "description": "Lab 7, Question 5, Date-time Node.js Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esedore/SRT621_Lab7_Q5_esedore.git"
+  },
+  "author": "Eric Sedore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esedore/SRT621_Lab7_Q5_esedore/issues"
+  },
+  "homepage": "https://github.com/esedore/SRT621_Lab7_Q5_esedore#readme"
+}
