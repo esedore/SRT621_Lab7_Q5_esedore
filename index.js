@@ -7,7 +7,7 @@ const port = 8989;
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
-  res.end('Date/Time');
+  res.end('<script> var currentDate = Date(); stringDate = currentDate.toString(); document.write("Current Timestamp"+ stringDate);</script>');
 });
 
 server.listen(port, hostname, () => {
